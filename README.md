@@ -3,10 +3,10 @@
 <h2 align="center"> 🌱 I’m currently working on TESTER - Automation and Normal </h2>
 </p>
 <p align='center'>
-<a href="mailto:nghia.huynht05@gmail.com"><img height="30" src="https://github.com/nghiahuynht05/image/icons8-gmail-48.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/nghiahuynht05"><img height="30" src="https://github.com/nghiahuynht05/image/icons8-facebook-48.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/nghiahuynht05/image/icons8-facebook-64.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nghia-huynht05/"><img height="30" src="https://github.com/nghiahuynht05/image/icons8-linkedin-48.png?raw=true"></a>
+<a href="mailto:nghia.huynht05@gmail.com"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/image/icons8-gmail-48.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/nghiahuynht05"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/image/icons8-facebook-48.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/image/icons8-facebook-64.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nghia-huynht05/"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/image/icons8-linkedin-48.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hello there! My name is Nghia. 👋</h2>
