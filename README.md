@@ -3,13 +3,15 @@
 <h2 align="center"> 🌱 I’m currently working on TESTER - Automation and Normal </h2>
 </p>
 <p align='center'>
-<a href="mailto:nghia.huynht05@gmail.com"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/image/icons8-gmail-48.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/nghiahuynht05"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/image/icons8-facebook-48.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/image/icons8-facebook-64.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nghia-huynht05/"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/image/icons8-linkedin-48.png?raw=true"></a>
+<a href="mailto:nghia.huynht05@gmail.com"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/blob/master/image/icons8-gmail-48.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/nghiahuynht05"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/blob/master/image/icons8-facebook-48.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/nghia.huynht"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/blob/master/image/icons8-instagram-48.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nghia-huynht05/"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/blob/master/image/icons8-linkedin-48.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hello there! My name is Nghia. 👋</h2>
+
+<p align="center">Manual and automation tester with 3+years of experience in quality assurance especilly with 2 years in automation testing on mobile, website and server back-end: BDD, TDD using Selenium, Appium, Javascript, Nodejs, Java and Postman, Jmeter. Experienced tester with a demonstrated history of working in the transportation industry. Experienced tester with a demonstrated history of working in the payment online with Stripe, Apple Pay, FlutterWave,...</p>
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/nghiahuynht05) 😏
