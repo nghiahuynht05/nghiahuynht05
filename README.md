@@ -11,7 +11,7 @@
 
 <h2 align="center">Hello there! My name is Nghia. 👋</h2>
 
-<p align="center">Manual and automation tester with 3+years of experience in quality assurance especilly with 2 years in automation testing on mobile, website and server back-end: BDD, TDD using Selenium, Appium, Javascript, Nodejs, Java and Postman, Jmeter. Experienced tester with a demonstrated history of working in the transportation industry. Experienced tester with a demonstrated history of working in the payment online with Stripe, Apple Pay, FlutterWave,...</p>
+<p align="center">Manual and automation tester with 5+years of experience in quality assurance especilly with 3 years in automation testing on mobile, website and server back-end: BDD, TDD using Selenium, Appium, Javascript, Nodejs, Java and Postman, Jmeter. Experienced tester with a demonstrated history of working in the transportation industry. Experienced tester with a demonstrated history of working in the payment online with Stripe, Apple Pay, FlutterWave,...</p>
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/nghiahuynht05) 😏
