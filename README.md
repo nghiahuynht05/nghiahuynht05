@@ -1,6 +1,6 @@
 <!-- Actual text -->
 <p align='center'>
-<h2 align="center"> 🌱 I’m currently working on TESTER - Automation and Normal </h2>
+<h2 align="center"> 🌱 I’m currently working on QA - Automation and Normal </h2>
 </p>
 <p align='center'>
 <a href="mailto:nghia.huynht05@gmail.com"><img height="30" src="https://github.com/nghiahuynht05/nghiahuynht05/blob/master/image/icons8-gmail-48.png?raw=true"></a>&nbsp;&nbsp;
@@ -11,7 +11,7 @@
 
 <h2 align="center">Hello there! My name is Nghia. 👋</h2>
 
-<p align="center">Manual and automation tester with 5+years of experience in quality assurance especilly with 3 years in automation testing on mobile, website and server back-end: BDD, TDD using Selenium, Appium, Javascript, Nodejs, Java and Postman, Jmeter. Experienced tester with a demonstrated history of working in the transportation industry. Experienced tester with a demonstrated history of working in the payment online with Stripe, Apple Pay, FlutterWave,...</p>
+<p align="center">Manual and automation tester with 6+years of experience in quality assurance especially with 4 years in automation testing on mobile, website and server back-end: BDD, TDD using Selenium, Appium, Javascript, Nodejs, Java and Postman, Jmeter. Experienced tester with a demonstrated history of working in the transportation industry. Experienced tester with a demonstrated history of working in the payment online with Stripe, Apple Pay, FlutterWave,... Experienced tester with a demonstrated history of working in transportation</p>
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/nghiahuynht05) 😏
